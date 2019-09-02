@@ -14,7 +14,7 @@ Zhou JiaPeng Blog : [www.zhoujiapeng.top](http://www.zhoujiapeng.top)
 
 **You can free to use this theme, but you need to keep the following copyright notice on the website.**
 
-<img src="/img/article/copyright.png" width="55%">
+<img src="source/img/article/copyright.png" width="55%">
 
 # Install Hexo
 
